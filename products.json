@@ -1,0 +1,40 @@
+{
+    "products": {
+        "butternut_squash": {
+            "id": 1,
+            "type": 1,
+            "name": "Butternut Squash",
+            "description": "Squash bombs from the butter garden."
+        },
+        "corndogs": {
+            "id": 2,
+            "type": 1,
+            "name": "Corndogs",
+            "description": "Bread covered hotdogs bombs"
+        },
+        "jujubees": {
+            "id": 3,
+            "type": 1,
+            "name": "Jujubees",
+            "description": "Multi-colored candy bombs"
+        },
+        "staff": {
+            "id": 0,
+            "type": 2,
+            "name": "Staff",
+            "description": "Chinese wax wood is hard as steel. A staff that blows up."
+        },
+        "sword": {
+            "id": 0,
+            "type": 2,
+            "name": "Sword",
+            "description": "A sharp metal sword that will cut you. Sword blows up."
+        },
+        "numchucks": {
+            "id": 0,
+            "type": 2,
+            "name": "Numchucks",
+            "description": "Deadly weapon - two batons connected by a chain. They will blow up."
+        }
+    }
+}

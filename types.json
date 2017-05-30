@@ -1,0 +1,17 @@
+{
+    "types": [
+        {
+            "id": 1,
+            "category": "food",
+            "name": "personal",
+            "description": "Things that you eat."
+        },
+
+        {
+            "id": 2,
+            "category": "weapon",
+            "name": "weapon",
+            "description": "Objects used to inflict damage upon opponents."
+        }
+    ]
+}

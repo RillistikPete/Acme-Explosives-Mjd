@@ -1,0 +1,12 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "food"
+        },
+        {
+            "id": 2,
+            "name": "Demolition"
+        }
+    ]
+}

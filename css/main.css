@@ -1,0 +1,9 @@
+select {
+	margin: auto;
+}
+
+#selectcenter {
+	margin: auto;
+	color: blue;
+	width: 70%;
+}
